@@ -1,0 +1,56 @@
+@media screen and (min-width: 1px) and (max-width: 767px) {
+    #grid-container {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+        grid-template-areas: 
+            "title"
+            "hero"
+            "posts";
+          padding: 10px;
+        
+      }
+      #hero-title {
+        color: white;
+        font-size: 20px !important;
+        padding-top: 15px;
+      }
+
+      .hero-div h2{
+        position:absolute;
+        bottom: 45px !important;
+        text-align: center;
+        font-size: 25px;
+      }
+      #posts{
+        flex-direction: column !important;
+        width: 100%;
+        overflow: hidden;
+      }
+      .post{
+        width: 90vw !important;
+        
+      }
+      .post-title {
+        font-size: 20px !important;
+        bottom: 15px !important;
+      }
+  }
+  @media screen and (min-width: 768px) {
+    #grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto;
+        grid-template-areas: 
+          "title title title"
+          "hero hero hero"
+          "hero hero hero"
+          "posts posts posts";
+          padding: 10px;
+        
+      }
+      #hero-title {
+        color:white;
+      }
+  }
+  

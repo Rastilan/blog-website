@@ -1,36 +1,10 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: rgb(37, 37, 37);
-    color: white;
-}
+@import url("/assets/css-modules.css/navbar.css");
+@import url("/assets/css-modules.css/bodydefaults.css");
+@import url("/assets/css-modules.css/footer.css");
 
-#navbar {
-    background-color: rgb(12, 12, 12);
-    padding: 10px 20px;
-    text-align: center;
-}
 
-#nav-list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
 
-#nav-list li {
-    margin: 0 15px;
-}
 
-#nav-list li a {
-    color: white;
-    text-decoration: none;
-}
-
-#nav-list li a:hover {
-    color: #ddd;
-}
 
 #main-content {
     display: flex;
@@ -60,12 +34,3 @@ html, body {
 
 
 
-#footer {
-    position: absolute;
-    width: 100vw;
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(12, 12, 12);
-    margin-top: 20px;
-    bottom: 0;
-}

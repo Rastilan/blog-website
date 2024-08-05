@@ -1,0 +1,26 @@
+#footer {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(12, 12, 12);
+    margin-top: 20px;
+    bottom: 0;
+    left: 0;
+}
+#footer p{
+    margin: 0;
+    padding: 0;
+}
+#social-media a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+#social-media a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
