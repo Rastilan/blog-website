@@ -21,7 +21,7 @@
 }
 #hero-box {
     grid-area: hero;
-    background-image: url('./assets/akali-hero.jpg');
+    background-image: url('/assets/imgs/akali-hero.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
