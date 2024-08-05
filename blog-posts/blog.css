@@ -61,8 +61,11 @@ html, body {
 
 
 #footer {
+    position: absolute;
+    width: 100vw;
     text-align: center;
     padding: 20px;
     background-color: rgb(12, 12, 12);
     margin-top: 20px;
+    bottom: 0;
 }
