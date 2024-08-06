@@ -21,6 +21,9 @@
     .author-info {
         margin: 0px !important;
     }
+    .author-avatar {
+        width: 30vw !important;
+    }
     #social-sharing {
         margin-top: 15px;
         margin-bottom: 80px;
