@@ -1,6 +1,6 @@
-@import url("/assets/css-modules.css/navbar.css");
-@import url("/assets/css-modules.css/bodydefaults.css");
-@import url("/assets/css-modules.css/footer.css");
+@import url("/assets/css-modules/navbar.css");
+@import url("/assets/css-modules/bodydefaults.css");
+@import url("/assets/css-modules/footer.css");
 
 
 @media screen and (min-width: 1px) and (max-width: 767px) {
@@ -28,6 +28,9 @@
         margin-top: 15px;
         margin-bottom: 80px;
     }
+    #footer{
+        position: relative !important;
+    }
 }
 
 
@@ -39,6 +42,7 @@
     flex-wrap: nowrap;
     padding: 5px;
     margin-top: 60px;
+    flex: 1;
 }
 
 #blog-title{
@@ -109,4 +113,8 @@
     border-radius: 50%;
     background-color: rgb(51, 51, 51);
     text-decoration: none;
+}
+
+#footer{
+    position:absolute;
 }

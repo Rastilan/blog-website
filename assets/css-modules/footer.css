@@ -18,13 +18,12 @@
 #footer {
     display: flex;
     justify-content: space-around;
-    position: fixed;
     width: 100%;
     text-align: center;
     padding: 10px;
     background-color: rgb(12, 12, 12);
     margin-top: 20px;
-    bottom: 0;
+    bottom: 0 !important;
     left: 0;
 }
 #footer p{
