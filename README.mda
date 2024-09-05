@@ -1,0 +1,133 @@
+<p align="center">
+  <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="20%" alt="BLOG-WEBSITE-logo">
+</p>
+<p align="center">
+    <h1 align="center">BLOG-WEBSITE</h1>
+</p>
+<p align="center">
+    <em><code>❯ Blog site created for the Udacity Front End Dev course</code></em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/Rastilan/blog-website?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/Rastilan/blog-website?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/Rastilan/blog-website?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/Rastilan/blog-website?style=flat&color=0080ff" alt="repo-language-count">
+</p>
+<p align="center">
+		<em>Built with the tools and technologies:</em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+</p>
+
+<br>
+
+#####  Table of Contents
+
+- [ Overview](#-overview)
+- [ Features](#-features)
+- [ Repository Structure](#-repository-structure)
+- [ Modules](#-modules)
+- [ Getting Started](#-getting-started)
+    - [ Prerequisites](#-prerequisites)
+    - [ Installation](#-installation)
+    - [ Usage](#-usage)
+    - [ Tests](#-tests)
+- [ Project Roadmap](#-project-roadmap)
+- [ Contributing](#-contributing)
+- [ License](#-license)
+- [ Acknowledgments](#-acknowledgments)
+
+---
+
+##  Overview
+
+<code>❯ Simple Blog site created for the Udacity Front End Dev course.</code>
+
+---
+
+##  Features
+
+<code>❯ You can click a link and watch classes get assigned.</code>
+
+---
+
+##  Repository Structure
+
+```sh
+└── blog-website/
+    ├── about.html
+    ├── akali.html
+    ├── assets
+    │   ├── blog.css
+    │   ├── css-modules
+    │   ├── imgs
+    │   └── style.css
+    ├── index.html
+    ├── kda.html
+    ├── morgana.html
+    ├── mundo.html
+    ├── search.html
+    └── subscribe.html
+```
+
+---
+
+##  Modules
+
+<details closed><summary>.</summary>
+
+| File | Summary |
+| --- | --- |
+| [morgana.html](https://github.com/Rastilan/blog-website/blob/main/morgana.html) | <code>❯ REPLACE-ME</code> |
+| [mundo.html](https://github.com/Rastilan/blog-website/blob/main/mundo.html) | <code>❯ REPLACE-ME</code> |
+| [subscribe.html](https://github.com/Rastilan/blog-website/blob/main/subscribe.html) | <code>❯ REPLACE-ME</code> |
+| [kda.html](https://github.com/Rastilan/blog-website/blob/main/kda.html) | <code>❯ REPLACE-ME</code> |
+| [index.html](https://github.com/Rastilan/blog-website/blob/main/index.html) | <code>❯ REPLACE-ME</code> |
+| [akali.html](https://github.com/Rastilan/blog-website/blob/main/akali.html) | <code>❯ REPLACE-ME</code> |
+| [search.html](https://github.com/Rastilan/blog-website/blob/main/search.html) | <code>❯ REPLACE-ME</code> |
+| [about.html](https://github.com/Rastilan/blog-website/blob/main/about.html) | <code>❯ REPLACE-ME</code> |
+
+</details>
+
+---
+
+##  Getting Started
+
+###  Prerequisites
+
+**Browser**: `Anything recent`
+
+###  Installation
+
+Build the project from source:
+
+1. Clone the blog-website repository:
+```sh
+❯ git clone https://github.com/Rastilan/blog-website
+```
+
+2. Navigate to the project directory:
+```sh
+❯ cd blog-website
+```
+
+###  Usage
+
+To run the project, execute the following command:
+
+```sh
+❯ ❯ Open in a browser.
+```
+
+##  License
+
+This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+
+---
+
+##  Acknowledgments
+
+- base project provided by Udacity.
+
+---
